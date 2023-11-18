@@ -234,3 +234,40 @@
     width: 364px;
     height: 450px;
 }
+/*     <!-- why choose us starts here -->
+ */
+ .choose-cause{
+    margin-bottom: 130px;
+ }
+#choose-cause h1{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 93px;
+    
+}
+.cause{
+    /* width: 356px;
+    height: 320px; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 25px;
+ }
+ .food{
+    width: 53px;
+    height: 53px;
+ }
+ .cause-details h4{
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 49px;
+    padding-bottom: 10px;
+}
+.cause-details p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #575757;
+    padding-bottom: 5px;
+}
