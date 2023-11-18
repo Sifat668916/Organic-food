@@ -138,3 +138,39 @@
     font-size: 51px;
     color: #F47606;
 }
+#fruits{
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.fruit-cart{
+    width: 170px;
+    height: 190px;
+    text-align: center;
+}
+.cart{
+    display: flex;
+    justify-content: space-between;
+}
+.fruit-cart h3{
+    padding-top: 13px;
+}
+.fruit-cart{
+    position: relative;
+}
+.arrow{
+    position: absolute;
+    left: -10px;
+    top: 35%;
+}
+.arrow-end{
+    position: absolute;
+    right: -30px;
+    top: 30%;
+}
+.fa-arrow-left{
+    font-size: 20px;
+}
+.fa-circle-arrow-right{
+    font-size: 40px;
+    color: #F47606;
+}
